@@ -18,8 +18,8 @@ An analysis of NYC Airbnb listing prices and their influencing factors.
 
 ## 项目文件结构
 nyc-airbnb-price-analysis/
-├── NYC_Airbnb_Analysis.ipynb # 主分析笔记本（包含完整代码与报告）
-├── README.md # 本项目说明文件
+- ├── NYC_Airbnb_Analysis.ipynb # 主分析笔记本（包含完整代码与报告）
+- ├── README.md # 本项目说明文件
 
 ## 主要分析步骤与发现
 
